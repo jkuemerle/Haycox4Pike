@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Haycox4Pike stuff
