@@ -2,7 +2,9 @@
 layout: page
 aside: true
 ---
-Home page
+Welcome to Haycox4Pike!
+
+[Sign up for our newsletter](https://google.com)
 
 {% include button.html text="Donate Now!" link="https://actblue.com" %}
 

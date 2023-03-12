@@ -74,7 +74,7 @@ navigation_header:
   url: /about
 
 navigation_footer:
-- title: Haxcox4Pike Footer
+- title: Haxcox4Pike
   url: https://haycox4pike.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
